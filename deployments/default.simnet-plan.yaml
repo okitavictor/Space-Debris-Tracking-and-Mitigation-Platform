@@ -55,6 +55,11 @@ plan:
             path: contracts/debris-tracking.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: liability-insurance
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/liability-insurance.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: mitigation-planning
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/mitigation-planning.clar

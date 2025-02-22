@@ -11,3 +11,5 @@ Q
 !tests/mitigation-planning.test.ts,0/3/03ca18cb6a0badb5f30fa78b5ae15645fdb8e383
 R
 "contracts/liability-insurance.clar,4/f/4f1455d2f320cc49be4255263d6d36bba08337d7
+Q
+!tests/liability-insurance.test.ts,3/c/3cd79c09714c5a059427838404cff274a419017e
