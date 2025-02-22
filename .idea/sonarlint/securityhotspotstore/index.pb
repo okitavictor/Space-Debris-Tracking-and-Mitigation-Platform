@@ -9,3 +9,5 @@ R
 "contracts/mitigation-planning.clar,6/1/619b1033f5f2d47d4e0de9ac00d6c374eeb984b8
 Q
 !tests/mitigation-planning.test.ts,0/3/03ca18cb6a0badb5f30fa78b5ae15645fdb8e383
+R
+"contracts/liability-insurance.clar,4/f/4f1455d2f320cc49be4255263d6d36bba08337d7
