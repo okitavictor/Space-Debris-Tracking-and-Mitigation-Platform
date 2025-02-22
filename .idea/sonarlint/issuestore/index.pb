@@ -5,3 +5,5 @@ N
 contracts/debris-tracking.clar,c/b/cb936e03a6da66b264cda0823e85d28700be043f
 M
 tests/debris-tracking.test.ts,0/4/04e22d4ad6e20ee6a05c4bca8142c8a4f114a6b6
+R
+"contracts/mitigation-planning.clar,6/1/619b1033f5f2d47d4e0de9ac00d6c374eeb984b8
